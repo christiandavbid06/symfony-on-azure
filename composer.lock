@@ -1554,7 +1554,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.4, <8.2"
+                "php": ">=7.4, <8.2.15"
             },
             "require-dev": {
                 "doctrine/annotations": "^1.13.2",
